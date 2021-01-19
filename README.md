@@ -2,13 +2,41 @@
 learn multi module android development
 
 # Note
-- use kotlin & data binding
 - create mock up & prepare resources
-- create core app : base mvp, room, retrofit, custom view, utils package with core / global classes
-- create global error handling class (400, 500, emptyList, etc)
 - use https://www.thesportsdb.com/api.php
-- create mock api for test loading & error handling
-- module 1 MLS base color blue
-- module 2 NBA base color red
-- create unit test 200, 400, 500, emptyList, etc
-- implement CI/CD
+- use kotlin
+- use android view binding
+- base activity
+- base list activity
+- base fragment
+- base recycler adapter
+- base loading fragment
+- base error fragment
+- base bottom sheet dialog
+- base success dialog
+- base error dialog
+- base list dialog
+- base date dialog
+- base date range dialog
+- base model
+- base request
+- base response
+- base status code
+- app application
+- app constants
+- app preference
+- app database
+- app network
+- app progress dialog
+- app text whatcer
+- app font
+- app style
+- app toolbar
+- app input text layout (neutral, positive, negative, disable)
+- app edit text (neutral, positive, negative, disable)
+- app text view (smallest, smaller, small, normal, big, bigger, biggest) (neutral, positive, negative, disable)
+- app button (neutral, positive, negative, disable)
+- app outline button (neutral, positive, negative, disable)
+- app check box (check, uncheck, disable)
+- app radio button (check, uncheck, disable)
+- app tab layout (selected, unselected)
